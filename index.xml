@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geliştirici Günlüğü</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Geliştirici Günlüğü</description>
+    <generator>Hugo</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>İlk Blog Yazısı</title>
+      <link>http://localhost:1313/posts/2026-05-23-godot-ile-ilk-duvarim/</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026-05-23-godot-ile-ilk-duvarim/</guid>
+      <description>&lt;p&gt;Önceki gönderimde bana birçok kaynak önerdiniz (Godot Dökümanları ve GdQuest). Dökümanları okudum ancak cidden anlamadım. Daha önce bir dil biliyordum (c++ öğrenmeye çalıştım, acı vericydi) ama giriş düzeyinde bile değil çok altı. Neyse.&lt;/p&gt;&#xA;&lt;p&gt;Dökümanlardan bir şey anlamayınca da, GDQuest&amp;rsquo;e bakmaya karar verdim (Learn GdScript From Zero). Tam rahat bir şekilde öğrenirken birden ingilizceye döndü. Hata olduğunu sanıp ayarları karıştırdım ama hayır türkçeydi. Fark ettim ki kendi dilimin sadece %20&amp;rsquo;si çevriliymiş. Ve web&amp;rsquo;e gömülü olduğu için indirdiğim çevirme eklentileri HİÇBİR İŞE YARAMADI.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
